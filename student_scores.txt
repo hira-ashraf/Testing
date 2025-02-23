@@ -1,0 +1,5 @@
+Name,Math,Science,English
+Ali,85,90,88
+Bilal,78,82,89
+Raza,92,87,85
+David,88,84,90
